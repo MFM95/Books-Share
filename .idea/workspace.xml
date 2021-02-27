@@ -9,7 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="429fc6ba-b6cc-4149-ac68-c8d699cdb506" name="Default Changelist" comment="" />
+    <list default="true" id="429fc6ba-b6cc-4149-ac68-c8d699cdb506" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,10 +133,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="455" y="250" width="518" height="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614458857201">
+    <state x="455" y="250" width="518" height="316" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614459084754">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="455" y="250" width="518" height="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1294.741@72.27.1294.741" timestamp="1614458857201" />
+    <state x="455" y="250" width="518" height="316" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1294.741@72.27.1294.741" timestamp="1614459084754" />
     <state width="1248" height="130" key="GridCell.Tab.0.bottom" timestamp="1614457209087">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -150,9 +153,9 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="1248" height="130" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1614457209085" />
-    <state x="382" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1614457390329">
+    <state x="382" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1614459335712">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="382" y="88" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1614457390329" />
+    <state x="382" y="88" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1614459335712" />
   </component>
 </project>
