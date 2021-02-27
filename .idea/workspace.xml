@@ -48,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -129,6 +130,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="455" y="250" width="518" height="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614458857201">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="455" y="250" width="518" height="302" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1294.741@72.27.1294.741" timestamp="1614458857201" />
     <state width="1248" height="130" key="GridCell.Tab.0.bottom" timestamp="1614457209087">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
