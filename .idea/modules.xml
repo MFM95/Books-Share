@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Books-Share.iml" filepath="$PROJECT_DIR$/.idea/Books-Share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/books-share.iml" filepath="$PROJECT_DIR$/.idea/modules/books-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/books-share.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/books-share.app.iml" />
     </modules>
   </component>
 </project>
